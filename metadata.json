@@ -1,0 +1,6 @@
+{
+  "name": "Chasefree - Document Request & Client Intake Portal",
+  "description": "Client intake, secure document request, and deadline tracking portal for solo accountants, immigration consultants, and small legal practices. Cut document chasing by 80%.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
